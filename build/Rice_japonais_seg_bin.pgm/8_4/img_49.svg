@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="630mm" height="510mm" 
+     viewBox="0 0 1785.83 1445.67" 
+     xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" >
+<desc>output.svg, created with the Board library (Copyleft) 2007 Sebastien Fourey</desc>
+<line x1="1162.2" y1="1417.32" x2="850.39" y2="1332.28" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1303.94" y1="1445.67" x2="1162.2" y2="1417.32" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1502.36" y1="1388.98" x2="1303.94" y2="1445.67" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1615.75" y1="1303.94" x2="1502.36" y2="1388.98" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1757.48" y1="1077.17" x2="1615.75" y2="1303.94" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1785.83" y1="822.05" x2="1757.48" y2="1077.17" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1672.44" y1="595.28" x2="1785.83" y2="822.05" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1360.63" y1="368.5" x2="1672.44" y2="595.28" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="1133.86" y1="255.12" x2="1360.63" y2="368.5" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="907.09" y1="141.73" x2="1133.86" y2="255.12" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="425.2" y1="0" x2="907.09" y2="141.73" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="28.35" x2="425.2" y2="0" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="0" y1="141.73" x2="170.08" y2="28.35" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="28.35" y1="283.46" x2="0" y2="141.73" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="170.08" y1="651.97" x2="28.35" y2="283.46" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="283.46" y1="1048.82" x2="170.08" y2="651.97" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="680.32" y1="1275.59" x2="283.46" y2="1048.82" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+<line x1="850.39" y1="1332.28" x2="680.32" y2="1275.59" fill="none" stroke="rgb(0,0,0)" stroke-width="0.176mm" style="stroke-linecap:butt;stroke-linejoin:miter" />
+</svg>
