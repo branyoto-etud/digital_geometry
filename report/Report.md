@@ -56,7 +56,7 @@ Here you can see the boundary of the first grain found for each type :
 
 |basmati|japanese|camargue|
 |---|---|---|
-|![boundary_basmati](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/boundary_bas.svg)|![boundary_japanese](./boundary_jap.svg)|![boundary_camargue](./boundary_cam.svg)|
+|![boundary_basmati](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/boundary_bas.svg)|![boundary_japanese](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/boundary_jap.svg)|![boundary_camargue](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/boundary_cam.svg)|
 
 ## Step 4
 
@@ -64,7 +64,7 @@ Here you can see the segmented boundary of the first grain found for each type :
 
 |basmati|japanese|camargue|
 |---|---|---|
-|![seg_boundary_basmati](./seg_boundary_bas.svg)|![seg_boundary_japanese](./seg_boundary_jap.svg)|![seg_boundary_camargue](./seg_boundary_cam.svg)|
+|![seg_boundary_basmati](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/seg_boundary_bas.svg)|![seg_boundary_japanese](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/seg_boundary_jap.svg)|![seg_boundary_camargue](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/seg_boundary_cam.svg)|
 
 
 ## Step 4 : Area
