@@ -56,7 +56,7 @@ Here you can see the boundary of the first grain found for each type :
 
 |basmati|japanese|camargue|
 |---|---|---|
-|![boundary_basmati](./boundary_bas.svg)|![boundary_japanese](./boundary_jap.svg)|![boundary_camargue](./boundary_cam.svg)|
+|![boundary_basmati](https://raw.githubusercontent.com/branyoto-etud/digital_geometry/main/report/boundary_bas.svg)|![boundary_japanese](./boundary_jap.svg)|![boundary_camargue](./boundary_cam.svg)|
 
 ## Step 4
 
