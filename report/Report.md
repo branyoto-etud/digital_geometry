@@ -71,7 +71,7 @@ Here you can see the segmented boundary of the first grain found for each type :
 
 As said in the introduction, results can be found in result.csv file for each grain type.
 
-These are the average and standard deviation of every value for the area only for 8_4 adjacency
+These are the average and standard deviation (SD) of every value for the area only for 8_4 adjacency
 
 | |basmati|camargue|japanese|
 |---|---|---|---|
